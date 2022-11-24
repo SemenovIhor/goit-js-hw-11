@@ -1,5 +1,5 @@
 import Notiflix from 'notiflix';
-import { Pixabay } from './js/feish';
+import { Pixabay } from './js/fetch';
 import { renderPhotoList } from './js/render';
 const form = document.querySelector('#search-form');
 const gallery = document.querySelector('.gallery');
